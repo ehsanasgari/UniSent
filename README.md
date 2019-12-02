@@ -19,13 +19,15 @@ If you use the resource please cite the arxiv version of the UniSent paper (subm
 }
 ```
 
-## The provided resources
+# The provided resources
 
-1.  unisent_languages.xlsx
+## 1. UniSent lexcia is available at 'unisent_lexica_v1' 
+Along with the paper, we release the UniSent sentiment lexica for 1242 unique languages. The lexicon files are located at "unisent_lexica_v1/xxx_unisent_lexicon.txt", where the "xxx" is the language ISO 639-3 codes. The mapping between the ISO code and the language name can be found in unisent_languages.xlsx. 
 
+
+## 2.  unisent_languages.xlsx
 A complete list of 1242 unique languages covered by UniSent along with their language family information is provided in the supplementary material.
 
-2.  Along with the paper, we release the UniSent sentiment lexica for 1242 unique languages. The lexicon files are located at "unisent_lexica_v1/xxx_unisent_lexicon.txt", where the "xxx" is the language ISO 639-3 codes. The mapping between the ISO code and the language name can be found in unisent_languages.xlsx. 
 
 
 ## The corpus of 1000 languages  
