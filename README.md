@@ -1,5 +1,4 @@
 # UniSent: Universal Adaptable Sentiment Lexica for 1000+ Languages
-=================================
 
 We introduce UniSent universal sentiment lexica for 1000+ languages. Sentiment lexica are vital for sentiment analysis in absence of document-level annotations, a very common scenario for low-resource languages. To the best of our knowledge, UniSent is the
 largest sentiment resource to date in terms of
@@ -27,3 +26,26 @@ If you use the resource please cite the arxiv version of the UniSent paper (subm
 A complete list of 1242 unique languages covered by UniSent along with their language family information is provided in the supplementary material.
 
 2.  Along with the paper, we release the UniSent sentiment lexica for 1242 unique languages. The lexicon files are located at "unisent_lexica_v1/xxx_unisent_lexicon.txt", where the "xxx" is the language ISO 639-3 codes. The mapping between the ISO code and the language name can be found in unisent_languages.xlsx. 
+
+
+## The corpus of 1000 languages  
+
+The super-parallel corpus of 1000+ can be found here:
+
+https://github.com/ehsanasgari/1000Langs
+
+```
+@inproceedings{asgari-schutze-2017-past,
+    title = "Past, Present, Future: A Computational Investigation of the Typology of Tense in 1000 Languages",
+    author = {Asgari, Ehsaneddin  and
+      Sch{\"u}tze, Hinrich},
+    booktitle = "Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing",
+    month = sep,
+    year = "2017",
+    address = "Copenhagen, Denmark",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/D17-1011",
+    doi = "10.18653/v1/D17-1011",
+    pages = "113--124",}
+
+```
