@@ -14,7 +14,7 @@ UniSent is accepted for publication at LREC 2020:
 @inproceedings{asgari2020unisent,
   title={UniSent: Universal Adaptable Sentiment Lexica for 1000+ Languages},
   author={Asgari, Ehsaneddin and Braune, Fabienne and Ringlstetter, Christoph and Mofrad, Mohammad RK},
-  booktitle={Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC-2020)},
+  booktitle={Proceedings of the International Conference on Language Resources and Evaluation (LREC-2020)},
   year={2020},
   organization={European Language Resources Association (ELRA)}
 }
