@@ -9,13 +9,14 @@ We evaluate the quality of UniSent in a subset of languages for which manually c
 paper, we release the UniSent sentiment lexica.
 
 
-If you use the resource please cite the arxiv version of the UniSent paper (submitted to the LREC 2020):
+UniSent is accepted for publication at LREC 2020:
 ```
-@article{asgari2019unisent,
+@inproceedings{asgari2020unisent,
   title={UniSent: Universal Adaptable Sentiment Lexica for 1000+ Languages},
   author={Asgari, Ehsaneddin and Braune, Fabienne and Ringlstetter, Christoph and Mofrad, Mohammad RK},
-  journal={arXiv preprint arXiv:1904.09678},
-  year={2019}
+  booktitle={Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC-2020)},
+  year={2020},
+  organization={European Language Resources Association (ELRA)}
 }
 ```
 
