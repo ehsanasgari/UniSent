@@ -49,6 +49,6 @@ https://github.com/ehsanasgari/1000Langs
     publisher = "Association for Computational Linguistics",
     url = "https://www.aclweb.org/anthology/D17-1011",
     doi = "10.18653/v1/D17-1011",
-    pages = "113--124",}
+    pages = "113--124"}
 
 ```
